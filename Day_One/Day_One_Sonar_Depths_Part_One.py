@@ -1,6 +1,6 @@
 #Advent Day 1 Part 1
 #depths = open("sonar_depths_input_data_1.txt").read().split('\n')
-depths = open("Day_One_Sonar_Depths_Part_One_Inputs.txt").read().split('\n')
+depths = open("Day_One_Sonar_Depths_Inputs.txt").read().split('\n')
 
 """  PART ONE  """
 lastdepth = depths[0]
